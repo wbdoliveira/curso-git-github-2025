@@ -1,1 +1,3 @@
 Este arquivo contém informações adicionais para git
+
+# comandos mais genéricos
